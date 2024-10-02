@@ -88,3 +88,4 @@ add address=www.nperf.com list=speedtest
 add address=nperf.com list=speedtest
 add address=myip.indihome.co.id list=speedtest
 add address=wifiman.com list=speedtest
+add address=bgp.he.net list=speedtest
